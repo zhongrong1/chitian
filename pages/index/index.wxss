@@ -1,0 +1,22 @@
+/**index.wxss**/
+.bg{position:absolute;min-height:100%;width:100%;background:url(https://jd.6le.com/miniApp/images/bg1.jpg) top left;background-size:100%,100%;overflow:hidden;background-repeat:no-repeat;}
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}

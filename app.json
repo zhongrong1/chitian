@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/change/change"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#c7000a",
+    "navigationBarTextStyle": "#fff",
+    "navigationBarTitleText": "池田VI设计"
+  }
+}
